@@ -144,7 +144,7 @@ buttons = [
     [
         InlineKeyboardButton(text=" ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="sᴏᴜʀᴄᴇ 🌐", url="https://github.com/TEAM-ABG/ExonRobot"
+            text="ᴄʜɪᴛ ᴄʜᴀᴛ", url="https://t.me/ViolenceChitChat"
         ),
     ],
     [
@@ -714,7 +714,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 1452219013 and DONATION_LINK:
+        if OWNER_ID != 5374329015 and DONATION_LINK:
             update.effective_message.reply_text(
                 f"ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ the ᴘᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ [ʜᴇʀᴇ]({DONATION_LINK})",
                 parse_mode=ParseMode.MARKDOWN,
@@ -768,7 +768,7 @@ def main():
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
 
 ━━━━━━━━━━━━━
-⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [𝐀ʙɪꜱʜɴᴏɪ](https://t.me/{OWNER_USERNAME})
+⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [𝐀ᴅɪᴛʏᴀ](https://t.me/{OWNER_USERNAME})
 ⍟ **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
 ⍟ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tver}`
 ⍟ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pver}`
