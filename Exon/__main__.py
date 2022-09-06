@@ -144,7 +144,7 @@ buttons = [
     [
         InlineKeyboardButton(text=" ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="ᴄʜɪᴛ ᴄʜᴀᴛ", url="https://t.me/ViolenceChitChat"
+            text="ᴍᴀʜɪ ᴋᴀ ʙғ", url="https://t.me/pythonxgamer"
         ),
     ],
     [
