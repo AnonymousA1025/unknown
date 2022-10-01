@@ -138,19 +138,19 @@ I'm ᴀᴍ  ᴀʟɪᴠᴇ  ʙᴀʙʏ !
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ ᴀᴅᴅ ᴍᴇ ➕ ", url=f"t.me/{BOT_USERNAME}?startgroup=true"
+            text="˹ ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ᴜ ɢᴇʏ ​˼", url=f"t.me/{BOT_USERNAME}?startgroup=true"
         )
     ],
     [
         InlineKeyboardButton(text=" ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="ᴍᴀʜɪ ᴋᴀ ʙғ", url="https://t.me/pythonxgamer"
+            text="ᴏᴡɴᴇʀ", url="https://t.me/pythonxgamer"
         ),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥂", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥂", url=f"https://t.me/ViolenceChitChat"),
         InlineKeyboardButton(
-            text="ᴜᴘᴅᴀᴛᴇs 🏃‍♂️", url=f"https://t.me/{UPDATES_CHANNEL}"
+            text="ᴜᴘᴅᴀᴛᴇs 🏃‍♂️", url=f"https://t.me/TeleCodeVerse"
         ),
     ],
 ]
