@@ -150,7 +150,7 @@ buttons = [
     [
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥂", url=f"https://t.me/ViolenceChitChat"),
         InlineKeyboardButton(
-            text="ᴜᴘᴅᴀᴛᴇs 🏃‍♂️", url=f"https://t.me/TeleCodeVerse"
+            text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TeleCodeVerse"
         ),
     ],
 ]
