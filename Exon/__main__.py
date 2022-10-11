@@ -125,7 +125,7 @@ PM_START_TEXT = """
  ➻ *ᴜsᴇʀs:* `{}`
  ➻ *chats:* `{}`
 *─────────────*
-✪ `ʜɪᴛ` *ʜᴇʟᴘ* `ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ` \n[➥](https://telegra.ph/file/265698aedbcda6fadf5c1.jpg)*:*\n[ғɪʀꜱᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ᴛʜᴇɴ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ](http://t.me/ElectroXrobot?startgroup=true)
+✪ `ʜɪᴛ` *ʜᴇʟᴘ* `ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ` \n[➥](https://telegra.ph/file/1d140aee245eb58ce4dc7.jpg)*:*\n[ғɪʀꜱᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ᴛʜᴇɴ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ](http://t.me/ElectroXrobot?startgroup=true)
 """
 
 
