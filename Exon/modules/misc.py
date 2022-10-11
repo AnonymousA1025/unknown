@@ -327,8 +327,8 @@ def stats(update, context):
             status
             + "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS])
-            + "\n\n[ɢɪᴛʜᴜʙ](https://github.com/KingAbishnoi/ExonRobot) | [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/AbishnoiMF)\n\n"
-            + "「 ʙʏ[ᴀʙɪsʜɴᴏɪ](t.me/{OWNER_USERNAME}) 」\n",
+            + "\n\n[ɢɪᴛʜᴜʙ](https://github.com/Adityakjha1/ElectroRobot) | [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/ViolenceChitChat)\n\n"
+            + "「 ʙʏ[Aditya](t.me/{OWNER_USERNAME}) 」\n",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
         )
@@ -340,9 +340,9 @@ def stats(update, context):
                         "\n*Bot statistics*:\n"
                         + "\n".join(mod.__stats__() for mod in STATS)
                     )
-                    + "\n\n⍙ [ɢɪᴛʜᴜʙ](https://github.com/KingAbishnoi/ExonRobot) | [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/AbishnoiMF)\n\n"
+                    + "\n\n⍙ [ɢɪᴛʜᴜʙ](https://github.com/Adityakjha1 ) | [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/Violencechitchat)\n\n"
                 )
-                + "「 ʙʏ [ᴀʙɪsʜɴᴏɪ](t.me/{OWNER_USERNAME}) 」\n"
+                + "「 ʙʏ [Aditya](t.me/{OWNER_USERNAME}) 」\n"
             ),
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
