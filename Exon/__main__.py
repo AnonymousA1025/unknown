@@ -144,11 +144,11 @@ buttons = [
     [
         InlineKeyboardButton(text=" ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="ᴏᴡɴᴇʀ", url="https://t.me/pythonxgamer"
+            text="ᴏᴡɴᴇʀ", url="https://t.me/{OWNER_USERNAME}"
         ),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥂", url=f"https://t.me/ViolenceChitChat"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥂", url=f"https://t.me/off_road143"),
         InlineKeyboardButton(
             text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TeleCodeVerse"
         ),
@@ -289,7 +289,7 @@ def start(update: Update, context: CallbackContext):
             time.sleep(0.4)
             lol.delete()
             update.effective_message.reply_sticker(
-                "CAACAgUAAx0CYRUl4wACE_9jOrdOx1mlrSIJIxfbEdtFPx4AAXEAAiYHAAKKsdlVBzVbazn1BmsqBA"
+                "CAACAgQAAx0CYRUl4wACM9xjRXswEX10sOADIfLCH59w84jkQwAClgwAAvg9MVJaSHRtt_60_CoE"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(
