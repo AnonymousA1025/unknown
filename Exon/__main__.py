@@ -144,7 +144,7 @@ buttons = [
     [
         InlineKeyboardButton(text=" ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="ᴏᴡɴᴇʀ", url="https://t.me/{OWNER_USERNAME}"
+            text="ᴏᴡɴᴇʀ", url="https://t.me/Rian_143"
         ),
     ],
     [
